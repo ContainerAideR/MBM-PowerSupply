@@ -3,6 +3,8 @@
 ## Structural  
 Reference the [FreeCAD files]() - derive GCODE to use CNC or 3D Printer  
 
+![Power Supply](/Electrical/Power_Supply.png)  
+
 5.1"L - 129.54 mm  
 3.5"W - 88.9 mm  
 2.0"H - 50.8 mm   
@@ -20,3 +22,4 @@ Bounding boxes around outside for slats, + 5 mm
 2x - 56 mm x 94 mm  - 4 slats			- Ends  
 	2x slats - 37 mm from edge - edges milled 1.1mm except for slats 20mm in length (top / bottom)  
 	2x slats - 18 mm from edge - edges milled 1.1mm except for slats 20mm in length (sides)  
+
