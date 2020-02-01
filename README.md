@@ -1,7 +1,7 @@
 # Linear Regulated - Adjustable Power Supply for a Workbench setup  
 
 ## Structural  
-Reference the [FreeCAD files]() - derive GCODE to use CNC or 3D Printer  
+Reference the [FreeCAD files](/Structural) - derive GCODE to use CNC or 3D Printer  
 
 ![Power Supply](/Electrical/Power_Supply.png)  
 
