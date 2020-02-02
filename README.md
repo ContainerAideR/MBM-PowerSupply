@@ -2,6 +2,8 @@
 
 The Workbench requires a general all purpose variable power supply. A dual power supply with independent adjustable positive and negative output voltages enables a separate adjustment for each of the supplies, providing the user unlimited applications for IC circuit voltage requirements. A Jameco {JE215) Adjustable Dual Power Supply Kit BOM is provided below.
 
+![Power Supply](/Electrical/Power_Supply.png)  
+
 A containment enclosure will be created using the previously constructed [CNC Milling machine]() to edge the contours and pockets required.  
 
 |ITEM 		|QTY.	  |PART NO. 	 |DESCRIPTION 							|
@@ -32,10 +34,11 @@ Schematics included:
 
 ![schematics](/Electrical/Schematic_Diagram.png) 
 
-## Structural  
-Reference the [FreeCAD files](/Structural) - derive GCODE to use CNC or 3D Printer  
 
-![Power Supply](/Electrical/Power_Supply.png)  
+## Structural  
+Build the containment enclosure for final completion.  This is an important step to increase the safe usage of the device in a Workshop environment.  Reference the [FreeCAD files](/Structural) - access the GCODE to use CNC tools.  I used acrylic panels to see the internal functions but you can also use Polymers or insulators limiting the electrical conductors and undesired electrical transmissions.
+
+![milled](/Structural/Mill_example.png )
 
 5.1"L - 129.54 mm  
 3.5"W - 88.9 mm  
