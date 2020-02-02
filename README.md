@@ -1,8 +1,8 @@
-# Linear Regulated - Adjustable Power Supply for a Workbench setup  
+# Workbench setup - Linear Regulated - Adjustable Power Supply 
 
 The Workbench requires a general all purpose variable power supply. A dual power supply with independent adjustable positive and negative output voltages enables a separate adjustment for each of the supplies, providing the user unlimited applications for IC circuit voltage requirements. A Jameco {JE215) Adjustable Dual Power Supply Kit BOM is provided below.
 
-A containment enclosure will be constructed using the previously constructed [CNC Milling machine]() to edge the contours and pockets required.  
+A containment enclosure will be created using the previously constructed [CNC Milling machine]() to edge the contours and pockets required.  
 
 |ITEM 		|QTY.	  |PART NO. 	 |DESCRIPTION 							|
 |-----------|:-------:|:------------:|:------------------------------------:|
