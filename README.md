@@ -28,7 +28,9 @@ A containment enclosure will be constructed using the previously constructed CNC
 |			|		  |20634		 |Kit instructions for JE215  			|
 
 ## Electrical  
-Schematics included 
+Schematics included:
+
+1[schematics](/Electrical/Schematic_Diagram.png) 
 
 ## Structural  
 Reference the [FreeCAD files](/Structural) - derive GCODE to use CNC or 3D Printer  
