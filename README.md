@@ -2,7 +2,7 @@
 
 The Workbench requires a general all purpose variable power supply. A dual power supply with independent adjustable positive and negative output voltages enables a separate adjustment for each of the supplies, providing the user unlimited applications for IC circuit voltage requirements. A Jameco (JE215) Adjustable Dual Power Supply Kit BOM is provided below.
 
-![Power Supply](/Electrical/Power_Supply.png)  
+![Workbench](/Structural/Workbench.png)  
 
 A containment enclosure will be created using the previously constructed [CNC Milling machine]() to edge the contours and pockets required.  
 
@@ -27,7 +27,10 @@ A containment enclosure will be created using the previously constructed [CNC Mi
 |			|2		  |40943		 |Hex Nut, 4-40								|
 |			|10		  |42420		 |Hex Nut, 6-32								|
 |			|4		  |32011		 |Rubber bumper feet SJ5012 or equivalent	|
-|			|		  |20634		 |Kit instructions for JE215  				|
+|			|		  |20634		 |Kit instructions for JE215  				|  
+
+
+![Power Supply](/Electrical/Power_Supply.png)  
 
 ## Electrical  
 Schematics included:
